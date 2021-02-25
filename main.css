@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(68, 128, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+li {
+    font-size: 120%;
+}
+h2 {
+    font-size: 170%;
+    color: crimson;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3 {
+    font-size: 125%;
+    color: crimson;
+}
+p {
+    font-size: 110%;
+}
