@@ -1,24 +1,24 @@
 h1 {
     color: rgb(68, 128, 0);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: lightblue;
+    background-color: cyan;
 }
 li {
     font-size: 120%;
-    background-color: lightblue;
+    background-color: cyan;
 }
 h2 {
     font-size: 170%;
     color: crimson;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: lightblue;
+    background-color: cyan;
 }
 h3 {
     font-size: 125%;
     color: crimson;
-    background-color: lightblue;
+    background-color: cyan;
 }
 p {
     font-size: 110%;
-    background-color: lightblue;
+    background-color: cyan;
 }
